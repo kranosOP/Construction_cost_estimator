@@ -26,5 +26,4 @@ Example Content of cost_summary.txt:
 Total Material Cost: The total cost for materials based on the quantities and unit prices.
 Total Labor Cost: The total cost for labor based on the hours and hourly rates.
 Grand Total Cost: The combined total of material and labor costs.
-License:
-This project is open-source and available for personal, academic, or educational use.
+
