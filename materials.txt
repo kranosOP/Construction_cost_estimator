@@ -1,0 +1,3 @@
+Cement 50.0 10
+Sand 30.0 20
+Steel 150.0 5
